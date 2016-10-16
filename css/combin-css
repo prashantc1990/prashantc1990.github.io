@@ -1,13 +1,14 @@
- {%include animate.min.css %}
- {%include bootstrap-edit.css %}
- {%include bootstrap.css	Demo %}
- {%include demo.css %}
- {%include et-line.css	%}
- {%include font-awesome.min.css %}
- {%include ionicons.min.css %}
- {%include main.css %}
- {%include nav.css %}
- {%include owl.carousel.css	%}
- {%include owl.theme.css %}
- {%include owl.transitions.css %}
- {%include simple-line-icons.css %}
+ 
+@import url(animate.min.css);
+@import url(bootstrap-edit.css);
+@import url(bootstrap.css);
+@import url(demo.css);
+@import url(et-line.css);
+@import url(font-awesome.min.css);
+@import url(ionicons.min.css);
+@import url(main.css);
+@import url(nav.css);
+@import url(owl.carousel.css);
+@import url(owl.theme.css);
+@import url(owl.transitions.css);
+@import url(simple-line-icons.css);
