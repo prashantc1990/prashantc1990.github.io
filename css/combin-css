@@ -1,0 +1,13 @@
+ {%include animate.min.css %}
+ {%include bootstrap-edit.css %}
+ {%include bootstrap.css	Demo %}
+ {%include demo.css %}
+ {%include et-line.css	%}
+ {%include font-awesome.min.css %}
+ {%include ionicons.min.css %}
+ {%include main.css %}
+ {%include nav.css %}
+ {%include owl.carousel.css	%}
+ {%include owl.theme.css %}
+ {%include owl.transitions.css %}
+ {%include simple-line-icons.css %}
