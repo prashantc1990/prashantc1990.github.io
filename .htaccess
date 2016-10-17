@@ -1,1 +1,7 @@
 
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{HTTP_REFERER} website1.com [NC,OR]
+ RewriteCond %{HTTP_REFERER} website2.com [NC,OR]
+ RewriteRule .* - [F]
+</ifModule>
